@@ -1,0 +1,7 @@
+Copyright (C) YEAR by CToID <funk443@icloud.com>
+SPDX-License-Identifier: 0BSD
+
+This program is free software. It comes without any warranty, to the
+extent permitted by applicable law. You can use, copy, modify, and/or
+distribute it under the terms of the BSD Zero Clause License. See the
+COPYING file for more details.
